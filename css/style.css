@@ -1,3 +1,25 @@
+
+/*
+Author name : Ariful Islam;
+email		:md.islam.ariful@gmail.com;
+website url :;
+GPL Licenes :3.4.1;
+
+*/
+
+/*
+
+
+====Index====
+1.Header                                    
+2.Fusce at
+3.Facilisis  
+4.Ante donec 
+5.Blandit rhoncus  
+6.Placerat
+7.Fooetr 
+
+*/
 /* Global Css*/
 
 h2{
@@ -119,7 +141,7 @@ background: #99c50a;
 }
 
 .fpb_left{
-padding-left: 100px;
+padding-left: 0px;
 
 }
 
@@ -144,7 +166,8 @@ padding-left: 100px;
 
 
 .fpb_right{
-	padding-left: 100px;
+	width: 100%
+	padding-left:0px;
 
 
 
