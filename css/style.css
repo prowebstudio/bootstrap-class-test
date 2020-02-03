@@ -49,8 +49,11 @@ h4{
 
 	padding: 10px 0px;
 }
-
+.logo{
+	float: left;
+}
 .menu {
+	float: right;
     padding-left: 141px;
 }
 .navbar-toggler{
@@ -301,9 +304,14 @@ footer{
 	border-radius: 20px;
 	margin-bottom: 10px;
 }
-
+		.menu {
+    float: right;
+    text-align: right;
+    padding-left: 0px;
+    top: -32px;
+}
 	.logo{
-		text-align: center;
+		text-align: left;
 		
 }
 
@@ -335,6 +343,12 @@ footer{
      #E2F8FF 50%, #F5F9EB 50%);
 	
 }
+.menu {
+    float: right;
+    text-align: right;
+    padding-left: 0px;
+    top: -32px;
+}
 .fpb_right{
 	text-align: center;
 	padding: 50px 50px;
@@ -347,6 +361,14 @@ footer{
 
 }
 @media (min-width: 661px) and (max-width: 768px){
+		
+.menu {
+    float: right;
+    text-align: right;
+    padding-left: 0px;
+    top: -32px;
+}
+
 		.find_properties_buyers{
 	background: linear-gradient(to top, 
      #E2F8FF 50%, #F5F9EB 50%);
