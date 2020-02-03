@@ -219,14 +219,18 @@ padding-left: 100px;
 .cstm-btn-four{
 
 	background: none;
-	padding-left: 85px;
+	width: 90%;
+	float: left;
+	text-align: right;
 	border: none;
 	color: #535353;
 	font-weight: bold;
 }
 .cstm-btn-four:hover{
 	background: none;
-	padding-left: 85px;
+width: 90%;
+	float: left;
+	text-align: right;
 	border: none;
 	color: #ADD136;
 }
